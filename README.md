@@ -1,4 +1,13 @@
-# KARANVISHEEclass KaranVishe:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Karan%20Vishe&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Generative%20AI&descAlignY=60&descSize=18" width="100%" /> <div align="center"> <a href="https://github.com/KARANVISHE18"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+ML+%26+Computer+Vision+pipelines;Autonomous+multi-agent+AI+systems+with+CrewAI;YOLO+%7C+OpenCV+%7C+FastAPI+%7C+Docker;Top+5%25+of+batch+%7C+CS+%26+Design+%272027" alt="Typing SVG" /> </a> <br/>
+
+Show Image Followers Stars
+
+LinkedIn Email Phone
+
+</div>
+👨‍💻 About Me
+python
+class KaranVishe:
     def __init__(self):
         self.role = "AI / Machine Learning Engineer"
         self.education = "B.E. Computer Science & Design (2027), Top 5% of batch"
@@ -69,4 +78,4 @@ Looking for an AI / ML / Data opportunity? Let's talk.
 
 LinkedIn Email
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=8957E5&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+%E2%9C%A8;Star+a+repo+if+you+liked+it+%E2%AD%90" /> </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=8957E5&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+%E2%9C%A8;Star+a+repo+if+you+liked+it+%E2%AD%90" /> </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />font=Fira+Code&size=16&pause=1000&color=8957E5&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+%E2%9C%A8;Star+a+repo+if+you+liked+it+%E2%AD%90" /> </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
